@@ -1,6 +1,6 @@
 ## Trilinos
 
-The Trilinos Project is a community of developers, users and
+The Trilinos project is a community of developers, users and
 user-developers focused on collaborative creation of algorithms and
 enabling technologies within an object-oriented software framework
 for the solution of large-scale, complex multi-physics engineering
